@@ -57,4 +57,3 @@ metrics:
 
     dimensions:
       - location_name
-      - is_first_order
